@@ -143,7 +143,7 @@ AI Due Diligence/
 ### Step 1: Clone the Repository
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/AdithyanAnil/AI-Due-deligence.git
 cd "AI Due Diligence"
 ```
 
